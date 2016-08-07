@@ -3,7 +3,7 @@
 //
 //  Created by Ran Shiloni on 7/21/16.
 //  Copyright © 2016 Ran Shiloni. All rights reserved.
-// commitement
+
 
 #import "ViewController.h"
 #import "stdlib.h"
