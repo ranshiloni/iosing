@@ -310,6 +310,7 @@
 				AF9149811D54D99700BCF999 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
